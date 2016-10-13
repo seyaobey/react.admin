@@ -19,5 +19,11 @@ export class Application {
         }
     }
 
+
+    init_layout() {
+
+    }
+
+
     //1. load routes and build menus
 }

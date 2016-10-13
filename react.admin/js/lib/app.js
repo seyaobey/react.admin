@@ -9,6 +9,8 @@ define(["require", "exports"], function (require, exports) {
             if (true) {
             }
         }
+        Application.prototype.init_layout = function () {
+        };
         return Application;
     }());
     exports.Application = Application;
