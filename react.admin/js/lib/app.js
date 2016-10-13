@@ -6,6 +6,8 @@ define(["require", "exports"], function (require, exports) {
     var Application = (function () {
         function Application(props) {
             this.props = props;
+            if (true) {
+            }
         }
         return Application;
     }());

@@ -14,6 +14,9 @@ export class Application {
 
     constructor(props: ApplicationProps) {
         this.props = props;
+
+        if (true) {
+        }
     }
 
     //1. load routes and build menus
