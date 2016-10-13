@@ -1,0 +1,6 @@
+﻿
+
+export function test() {
+}
+
+test();
