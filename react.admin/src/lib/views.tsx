@@ -14,13 +14,11 @@ var b: any = rb;
 var viewcount: number = 1;
 
 
-export interface ViewProps extends React.Props<any> {
-    owner?: View,
-}
-
-
 export interface ViewState {
     loading?: boolean,
+}
+export interface ViewProps extends React.Props<any> {
+    owner?: View,
 }
 
 

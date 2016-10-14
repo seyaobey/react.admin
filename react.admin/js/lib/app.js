@@ -15,4 +15,4 @@ define(["require", "exports"], function (require, exports) {
     }());
     exports.Application = Application;
 });
-//# sourceMappingURL=C:/Developper/react.admin/react.admin/js/lib/app.js.map
+//# sourceMappingURL=C:/developper/react.admin/react.admin/js/lib/app.js.map

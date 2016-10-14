@@ -21,4 +21,4 @@ define(["require", "exports", './lib/app'], function (require, exports, applib) 
     });
     app.init_layout();
 });
-//# sourceMappingURL=C:/Developper/react.admin/react.admin/js/app.js.map
+//# sourceMappingURL=C:/developper/react.admin/react.admin/js/app.js.map

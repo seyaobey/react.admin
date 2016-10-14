@@ -17,4 +17,4 @@ define(["require", "exports", 'react', 'react-bootstrap'], function (require, ex
     }(React.Component));
     exports.View = View;
 });
-//# sourceMappingURL=C:/Developper/react.admin/react.admin/js/lib/views.js.map
+//# sourceMappingURL=C:/developper/react.admin/react.admin/js/lib/views.js.map

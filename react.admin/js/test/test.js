@@ -5,4 +5,4 @@ define(["require", "exports"], function (require, exports) {
     exports.test = test;
     test();
 });
-//# sourceMappingURL=C:/Developper/react.admin/react.admin/js/test/test.js.map
+//# sourceMappingURL=C:/developper/react.admin/react.admin/js/test/test.js.map
